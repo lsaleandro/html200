@@ -1,0 +1,13 @@
+let x = 2;
+let z = 10;
+let y = 50;
+let firstword = "I";
+let secondword = "love";
+let thirdword = "jazz";
+let notaword = " ";
+let anotherword = "is";
+console.log(x + z + y);
+console.log(firstword + notaword + secondword + notaword + thirdword);
+console.log((y * x) + z);
+console.log (secondword + notaword + anotherword + notaword + z);
+console.log (thirdword + notaword + anotherword + notaword + thirdword);
